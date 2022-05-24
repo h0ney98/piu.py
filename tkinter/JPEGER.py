@@ -1,6 +1,5 @@
 import tkinter as tk  # as переименовывет ткинтер в ТК
 from tkinter import *
-from tkinter import ttk
 import webbrowser
 
 JPEGER = tk.Tk()
